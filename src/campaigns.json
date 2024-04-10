@@ -1,0 +1,206 @@
+[
+  {
+    "id": "camp-1",
+    "name": "First campaign",
+    "type": "Hematology",
+    "from": "2021-04-02T00:00Z",
+    "to": "2021-04-28T00:00Z",
+    "steps": [
+      {
+        "id": 1,
+        "phase": "Preparation",
+        "name": "Mail 1/2 blablabl blablabl blablabl blablabl",
+        "from": "2021-04-02T00:00Z",
+        "to": "2021-04-05T00:00Z"
+      },
+      {
+        "id": 2,
+        "phase": "Preparation",
+        "name": "Mail 2/2",
+        "from": "2021-04-04T00:00Z",
+        "to": "2021-04-06T00:00Z"
+      },
+      {
+        "id": 3,
+        "phase": "Integration",
+        "name": "Testing",
+        "from": "2021-04-07T00:00Z",
+        "to": "2021-04-10T00:00Z"
+      },
+      {
+        "id": 4,
+        "phase": "Execution",
+        "name": "Collecting feedback",
+        "from": "2021-04-11T00:00Z",
+        "to": "2021-04-28T00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "name": "Peyton Silva",
+        "picture": "https://randomuser.me/api/portraits/women/36.jpg"
+      },
+      {
+        "name": "Billy Miles",
+        "picture": "https://randomuser.me/api/portraits/men/29.jpg"
+      },
+      {
+        "name": "Juanita Simmmons",
+        "picture": "https://randomuser.me/api/portraits/women/53.jpg"
+      },
+      {
+        "name": "Danny Franklin",
+        "picture": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      {
+        "name": "Alexis Mitchelle",
+        "picture": "https://randomuser.me/api/portraits/women/73.jpg"
+      }
+    ]
+  },
+  {
+    "id": "camp-2",
+    "name": "Second campaign",
+    "type": "Hematology",
+    "from": "2021-04-07T00:00Z",
+    "to": "2021-04-15T00:00Z",
+    "steps": [
+      {
+        "id": 5,
+        "phase": "Preparation",
+        "name": "SMS",
+        "from": "2021-04-07T00:00Z",
+        "to": "2021-04-09T00:00Z"
+      },
+      {
+        "id": 6,
+        "phase": "Execution",
+        "name": "Collecting feedback",
+        "from": "2021-04-09T00:00Z",
+        "to": "2021-04-15T00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "name": "Douglas Lee",
+        "picture": "https://randomuser.me/api/portraits/men/75.jpg"
+      },
+      {
+        "name": "Brooklyn Morris",
+        "picture": "https://randomuser.me/api/portraits/women/68.jpg"
+      },
+      {
+        "name": "Edward Hopkins",
+        "picture": "https://randomuser.me/api/portraits/men/45.jpg"
+      }
+    ]
+  },
+  {
+    "id": "camp-3",
+    "name": "Third campaign",
+    "type": "Hematology",
+    "from": "2021-02-10T00:00Z",
+    "to": "2021-09-15T00:00Z",
+    "steps": [
+      {
+        "id": 7,
+        "phase": "Preparation",
+        "name": "Mail 1/9",
+        "from": "2021-02-10T00:00Z",
+        "to": "2021-02-15T00:00Z"
+      },
+      {
+        "id": 8,
+        "phase": "Preparation",
+        "name": "Mail 2/9",
+        "from": "2021-02-15T00:00Z",
+        "to": "2021-03-15T00:00Z"
+      },
+      {
+        "id": 9,
+        "phase": "Preparation",
+        "name": "Mail 3/9",
+        "from": "2021-03-15T00:00Z",
+        "to": "2021-03-20T00:00Z"
+      },
+      {
+        "id": 10,
+        "phase": "Preparation",
+        "name": "Mail 4/9",
+        "from": "2021-03-20T00:00Z",
+        "to": "2021-03-28T00:00Z"
+      },
+      {
+        "id": 11,
+        "phase": "Preparation",
+        "name": "Mail 5/9",
+        "from": "2021-03-28T00:00Z",
+        "to": "2021-04-12T00:00Z"
+      },
+      {
+        "id": 12,
+        "phase": "Preparation",
+        "name": "Mail 6/9",
+        "from": "2021-04-12T00:00Z",
+        "to": "2021-04-17T00:00Z"
+      },
+      {
+        "id": 13,
+        "phase": "Preparation",
+        "name": "Mail 7/9",
+        "from": "2021-04-17T00:00Z",
+        "to": "2021-04-30T00:00Z"
+      },
+      {
+        "id": 14,
+        "phase": "Preparation",
+        "name": "Mail 8/9",
+        "from": "2021-04-30T00:00Z",
+        "to": "2021-05-10T00:00Z"
+      },
+      {
+        "id": 15,
+        "phase": "Preparation",
+        "name": "Mail 9/9",
+        "from": "2021-05-10T00:00Z",
+        "to": "2021-06-10T00:00Z"
+      },
+      {
+        "id": 16,
+        "phase": "Integration",
+        "name": "Testing",
+        "from": "2021-06-15T00:00Z",
+        "to": "2021-07-15T00:00Z"
+      },
+      {
+        "id": 17,
+        "phase": "Execution",
+        "name": "Collecting feedback",
+        "from": "2021-08-10T00:00Z",
+        "to": "2021-09-15T00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "name": "Nicole Oliver",
+        "picture": "https://randomuser.me/api/portraits/women/0.jpg"
+      },
+      {
+        "name": "Tracey Clark",
+        "picture": "https://randomuser.me/api/portraits/women/93.jpg"
+      },
+      {
+        "name": "Gabriel Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/60.jpg"
+      },
+      {
+        "name": "Dawn Davis",
+        "picture": "https://randomuser.me/api/portraits/women/35.jpg"
+      },
+      {
+        "name": "Lonnie Nelson",
+        "picture": "https://randomuser.me/api/portraits/men/37.jpg"
+      }
+    ]
+  }
+]

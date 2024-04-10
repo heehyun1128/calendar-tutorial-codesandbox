@@ -1,0 +1,31 @@
+.eventDiv {
+  padding: 5px !important;
+}
+
+.eventPhase {
+  font-style: italic;
+  font-weight: 100;
+}
+
+.eventTitle {
+  font-size: medium;
+}
+
+.campaign {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.campaignType {
+  font-size: small;
+  background-color: #0868ac;
+  color: white;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 16px;
+  display: 'block';
+  
+}
